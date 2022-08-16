@@ -1,3 +1,5 @@
 This is my page 2.
 
 Hello world!
+
+Hello Java!
